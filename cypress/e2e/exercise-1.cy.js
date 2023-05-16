@@ -58,7 +58,7 @@ describe('Task 1', () => {
         cy.contains('Continue').click()
 
         // Step 2.4.1: Check if on `home` page
-        cy.url().should('include', '')
+        cy.url().should('eq', 'https://automationexercise.com/')
 
 
         // Step 3: Select one product > Add it to the cart
