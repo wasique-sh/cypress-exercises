@@ -8,7 +8,7 @@ A repository containing all of my cypress exercises
 - [Usage](#usage)
 
 ## About
-`cypress/e2e/exercise-1.cy.js` Automates the following steps in Cypress:
+[`cypress/e2e/exercise-1.cy.js`](https://github.com/wasique-sh/cypress-exercises/blob/master/cypress/e2e/exercise-1.cy.js) Automates the following steps in Cypress:
 1. Visit https://automationexercise.com/
 2. Sign Up with all the required and non required fields (Date of Birth)
 3. Select one product > Add it to the cart
